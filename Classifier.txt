@@ -1,0 +1,9 @@
+area_graph
+bar_graph
+line_graph
+map
+pareto_chart
+pie_chart
+radar_plot
+scatter_graph
+venn_diagram
